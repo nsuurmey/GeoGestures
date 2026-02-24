@@ -4,7 +4,7 @@
 
 GeoGestures translates your verbose, polysyllabic geological descriptions into the universal language of hand gestures and expressive emojis. Because sometimes "listric normal fault detaching on basal shale" really does need to be communicated as `🫶 🌀 ↘️ 🫲 📐 🫴 🤚 🙌`.
 
-**Live app:** [nsuurmey.github.io/GeoGestures](https://nsuurmey.github.io/GeoGestures/geogestures/)
+**Live app:** [nsuurmey.github.io/GeoGestures](https://nsuurmey.github.io/GeoGestures/)
 
 ---
 
@@ -60,7 +60,7 @@ The chaos/filler emoji pool gets biased toward explosions and vortices in Dramat
 
 - **React 19** + **Vite 7** — because geology moves fast
 - **Tailwind CSS v4** — available if you want to extend the UI
-- **GitHub Pages** — deployed at `/geogestures/`
+- **GitHub Pages** — deployed at `/GeoGestures/`
 - **Zero external runtime dependencies** — all the randomness is homegrown
 
 ---
@@ -73,7 +73,7 @@ npm install
 npm run dev
 ```
 
-Then open `http://localhost:5173/geogestures/` and start handwaving.
+Then open `http://localhost:5173/GeoGestures/` and start handwaving.
 
 ```bash
 npm run build    # production build
